@@ -1,7 +1,0 @@
-明暗对照法
-
-| EN                                                                                                                                                                                | CN                                                                                                                                        |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| [...] in art, is the use of strong contrasts between light and dark, usually bold contrasts affecting a whole composition.                                                              | **明暗对照法**，源于意大利语的“明”（chiaro）与“暗”（scuro），是文艺复兴时期发展出的绘画技法，通过强烈明暗对比的基调以塑造三维立体的效果。 |
-| It is also a technical term used by artists and art historians for the use of contrasts of light to achieve a sense of volume in modelling three-dimensional objects and figures. | 传统上，运用明暗对照法的绘画会使用白色水粉画亮部，而用画纸本色或墨水等画暗部。                                                            |
-| Similar effects in cinema, and black and white and low-key photography, are also called chiaroscuro.                                                                              | 达芬奇、卡拉瓦乔、伦勃朗等画家都以此技法见长。明暗对照法这一概念后来还被摄影领域所借用。                                                  |

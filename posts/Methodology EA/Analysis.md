@@ -1,3 +1,0 @@
-# Stylistic analysis
-
-# Formal analysis
