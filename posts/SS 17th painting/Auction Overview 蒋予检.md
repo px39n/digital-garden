@@ -6,4 +6,5 @@
 | 2019 Autumn | 兰石图                                          | #西泠印社拍卖      | [西泠印社拍卖有限公司官方网站](http://www.xlysauc.net/auction5_det.php?ccid=1150&id=182222&n=1175)                                                                          |     |     |
 | 2021 Autumn | 蒋矩亭 兰石 镜心                                | 天津国拍           | [蒋矩亭 兰石 镜心－](https://www.artfoxlive.com/product/7257171.html#prettyPhoto)                                                                                           |     |     |
 |             |                                                 |                    |                                                                                                                                                                             |     |     |
+
 Artnet中曾经拍卖过的蒋予检书画：[www.artnet.de/künstler/jiang-yujian/](http://www.artnet.de/k%C3%BCnstler/jiang-yujian/)

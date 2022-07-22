@@ -1,5 +1,6 @@
 # 05.03 About Two overview books
 ## [[Barnhart 1997]]
+
 | **Inhalt**                                         | !   |
 | -------------------------------------------------- | --- |
 |  [[Barnhart 1997#approaches\|approaches]]|     |
@@ -45,9 +46,11 @@ HW:
 
 
 # 06.07
+
 | notes       | Literature                     | !                    | vocab today                                  |
 | ----------- | ------------------------------ | -------------------- | -------------------------------------------- |
 | Translation | chinese scroll paiting,chicago | scroll. uchicago.edu | exquisite                                    |
 |             |                                |                      | embroiudered-uniform 刺绣的uniform （email） |
 |             |                                |                      |                                              |
+
 
